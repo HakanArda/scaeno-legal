@@ -1,0 +1,7 @@
+{
+  "name": "scaeno-legal",
+  "private": true,
+  "scripts": {
+    "deploy": "npx --yes wrangler@4 deploy"
+  }
+}
